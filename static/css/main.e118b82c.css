@@ -1,0 +1,2 @@
+body{background-color:#000;color:#fff}.App{justify-content:center}.App,.flex{display:flex}.flex{align-items:center;flex-direction:column;gap:25px;margin:25px 0}img{border:2px solid #fff;border-radius:10px;box-shadow:1px 1px 10px 5px #fff;max-height:80vh}button{background-color:purple;border:1px solid purple;border-radius:10px;box-shadow:1px 1px 5px purple;color:#fff;cursor:pointer;font-weight:700;padding:10px 15px;transition:.2s}button:hover{border:1px solid #fff;-webkit-transform:scale(1.1);transform:scale(1.1)}
+/*# sourceMappingURL=main.e118b82c.css.map*/

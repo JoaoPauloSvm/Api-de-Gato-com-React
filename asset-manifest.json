@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Api-de-Gato-com-React/static/css/main.e118b82c.css",
+    "main.js": "/Api-de-Gato-com-React/static/js/main.88f2815d.js",
+    "static/js/787.fee185e7.chunk.js": "/Api-de-Gato-com-React/static/js/787.fee185e7.chunk.js",
+    "index.html": "/Api-de-Gato-com-React/index.html",
+    "main.e118b82c.css.map": "/Api-de-Gato-com-React/static/css/main.e118b82c.css.map",
+    "main.88f2815d.js.map": "/Api-de-Gato-com-React/static/js/main.88f2815d.js.map",
+    "787.fee185e7.chunk.js.map": "/Api-de-Gato-com-React/static/js/787.fee185e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e118b82c.css",
+    "static/js/main.88f2815d.js"
+  ]
+}
